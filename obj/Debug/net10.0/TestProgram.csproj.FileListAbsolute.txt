@@ -1,0 +1,14 @@
+/home/agg51/projects/Csharp/TestProgram/bin/Debug/net10.0/TestProgram
+/home/agg51/projects/Csharp/TestProgram/bin/Debug/net10.0/TestProgram.deps.json
+/home/agg51/projects/Csharp/TestProgram/bin/Debug/net10.0/TestProgram.runtimeconfig.json
+/home/agg51/projects/Csharp/TestProgram/bin/Debug/net10.0/TestProgram.dll
+/home/agg51/projects/Csharp/TestProgram/bin/Debug/net10.0/TestProgram.pdb
+/home/agg51/projects/Csharp/TestProgram/obj/Debug/net10.0/TestProgram.GeneratedMSBuildEditorConfig.editorconfig
+/home/agg51/projects/Csharp/TestProgram/obj/Debug/net10.0/TestProgram.AssemblyInfoInputs.cache
+/home/agg51/projects/Csharp/TestProgram/obj/Debug/net10.0/TestProgram.AssemblyInfo.cs
+/home/agg51/projects/Csharp/TestProgram/obj/Debug/net10.0/TestProgram.csproj.CoreCompileInputs.cache
+/home/agg51/projects/Csharp/TestProgram/obj/Debug/net10.0/TestProgram.dll
+/home/agg51/projects/Csharp/TestProgram/obj/Debug/net10.0/refint/TestProgram.dll
+/home/agg51/projects/Csharp/TestProgram/obj/Debug/net10.0/TestProgram.pdb
+/home/agg51/projects/Csharp/TestProgram/obj/Debug/net10.0/TestProgram.genruntimeconfig.cache
+/home/agg51/projects/Csharp/TestProgram/obj/Debug/net10.0/ref/TestProgram.dll
